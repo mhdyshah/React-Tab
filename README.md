@@ -1,2 +1,2 @@
 # React-Tab
-Created with CodeSandbox
+Sample of React
